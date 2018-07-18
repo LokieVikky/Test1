@@ -7,7 +7,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
 import java.util.ArrayList;
-
+int d;
 public class Daaata extends SQLiteOpenHelper{
     SQLiteDatabase sqldata;
     public Daaata(Context context) {
